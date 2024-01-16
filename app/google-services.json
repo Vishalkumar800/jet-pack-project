@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "197267216766",
+    "project_id": "nugg-f7f8d",
+    "storage_bucket": "nugg-f7f8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197267216766:android:53816230e2614422f17b2f",
+        "android_client_info": {
+          "package_name": "com.rac.nugg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyVW0aMBmubysoIgUcYDcibdvKPkFmnME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
